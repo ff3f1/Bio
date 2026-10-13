@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Terracotta pot -->
+    <path
+        android:pathData="M40,70 L68,70 L64,84 L44,84 Z"
+        android:fillColor="#C2410C" />
+    <path
+        android:pathData="M38,67 L70,67 L70,71 L38,71 Z"
+        android:fillColor="#EA580C" />
+
+    <!-- Green stem -->
+    <path
+        android:pathData="M54,67 L54,50"
+        android:strokeColor="#16A34A"
+        android:strokeWidth="5"
+        android:strokeLineCap="round" />
+
+    <!-- Waving leaves -->
+    <path
+        android:pathData="M54,58 C42,58 37,50 37,46 C45,44 52,52 54,58 Z"
+        android:fillColor="#4ADE80" />
+    <path
+        android:pathData="M54,55 C66,55 71,47 71,43 C63,41 56,49 54,55 Z"
+        android:fillColor="#22C55E" />
+
+    <!-- Flower Petals in a circle -->
+    <path
+        android:pathData="M54,34 C50,22 58,22 54,34 Z"
+        android:fillColor="#FDA4AF" />
+    <path
+        android:pathData="M54,34 C42,30 46,22 54,34 Z"
+        android:fillColor="#F43F5E" />
+    <path
+        android:pathData="M54,34 C66,30 62,22 54,34 Z"
+        android:fillColor="#F43F5E" />
+    <path
+        android:pathData="M54,46 C40,46 42,36 54,46 Z"
+        android:fillColor="#FB7185" />
+    <path
+        android:pathData="M54,46 C68,46 66,36 54,46 Z"
+        android:fillColor="#FB7185" />
+
+    <!-- Happy Yellow Core / Face -->
+    <path
+        android:pathData="M54,32 A13,13 0 1,1 54,58 A13,13 0 1,1 54,32"
+        android:fillColor="#FDE047" />
+
+    <!-- Happy Eyes -->
+    <path
+        android:pathData="M49,44 A2.2,2.8 0 1,1 49,43.9"
+        android:fillColor="#1E293B" />
+    <path
+        android:pathData="M50,43 A0.8,1 0 1,1 50,42.9"
+        android:fillColor="#FFFFFF" />
+
+    <path
+        android:pathData="M59,44 A2.2,2.8 0 1,1 59,43.9"
+        android:fillColor="#1E293B" />
+    <path
+        android:pathData="M60,43 A0.8,1 0 1,1 60,42.9"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Rosy Cheeks -->
+    <path
+        android:pathData="M46,47 A2,2 0 1,1 46,46.9"
+        android:fillColor="#FDA4AF" />
+    <path
+        android:pathData="M62,47 A2,2 0 1,1 62,46.9"
+        android:fillColor="#FDA4AF" />
+
+    <!-- Sweet Smile -->
+    <path
+        android:pathData="M52,48 Q54,51 56,48"
+        android:strokeColor="#1E293B"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round" />
+</vector>

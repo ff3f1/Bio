@@ -1,0 +1,6 @@
+{
+  "name": "BioSim: Тамагочи",
+  "description": "Уютный и красочный симулятор живого цветка-тамагочи: уход, полив, тёплое солнышко, прополка сорняков, эволюция и весёлые садовые игры.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
